@@ -14,14 +14,21 @@ The **Human-Machine Network (HMN)** operates through three abstraction layers:
 
 ### Workflow
 
-The Human Input Layer collects human input (governance proposals, ideas, decisions etc.) using SNARKs to ensure data privacy and verifiable correctness. This layer facilitates the encoding of human inputs into encrypted proof circuits.
+The Human Input Layer collects human input (governance proposals, ideas, decisions etc.) using SNARKs to ensure data
+privacy and verifiable correctness. This layer facilitates the encoding of human inputs into encrypted proof circuits.
 
-The Modular DAO Layer processes these inputs autonomously to integrate governance logic into decision-making workflows, operating with transparency by tallying human inputs and generating executable commands for agents. Within this layer, agents reach consensus on what governance decisions to make through consensus mechanisms such as scalable multi-agent Byzantine Fault Tolerance, and other algorithmic consensus mechanisms.
+The Modular DAO Layer processes these inputs autonomously to integrate governance logic into decision-making workflows,
+operating with transparency by tallying human inputs and generating executable commands for agents. Within this layer,
+agents reach consensus on what governance decisions to make through consensus mechanisms such as scalable multi-agent
+Byzantine Fault Tolerance, and other algorithmic consensus mechanisms.
 
-The Execution Layer leverages autonomous AI agents which utilize zkVMs to implement governance directives in a secure execution environment once consensus has been reached on what decision to make. Agents could be tasked with financial management, policy enforcement, resource allocation, and more.
+The Execution Layer leverages autonomous AI agents which utilize zkVMs to implement governance directives in a secure
+execution environment once consensus has been reached on what decision to make. Agents could be tasked with financial
+management, policy enforcement, resource allocation, and more.
 
-Each layer plays a role in the governance process, ensuring that human inputs are effectively collected, processed, and executed by agents in alignment with humans. The system employs granular privacy measures and utilizes modular, composable agents for flexibility and scalability as the DAO evolves.
-
+Each layer plays a role in the governance process, ensuring that human inputs are effectively collected, processed, and
+executed by agents in alignment with humans. The system employs granular privacy measures and utilizes modular,
+composable agents for flexibility and scalability as the DAO evolves.
 
 ---
 
@@ -29,16 +36,19 @@ Each layer plays a role in the governance process, ensuring that human inputs ar
 
 ### 1. Human Input Layer
 
-**Purpose:**  
+**Purpose:**
 Collect proposals, suggestions, and preferences from participants securely and privately using **Zero-Knowledge (ZK)** encryption.
 
 **Process:**
 
 - **Submission of Proposals and Preferences:**
-  - Participants submit encrypted proposals and votes on-chain using **zkSync Era**, an Ethereum Layer-2 solution optimized for scalability and low transaction fees.
+
+  - Participants submit encrypted proposals and votes on-chain using **zkSync Era**, an Ethereum Layer-2 solution
+  - optimized for scalability and low transaction fees.
 
 - **Encryption and Verification:**
-  - Inputs are transformed into encrypted proof circuits using **Succinct Non-interactive Arguments of Knowledge (zk-SNARKs)**, specifically the **Groth16** protocol.
+  - Inputs are transformed into encrypted proof circuits using **Succinct Non-interactive Arguments of\
+    Knowledge (zk-SNARKs)**, specifically the **Groth16** protocol.
 
 **Cryptographic Primitives:**
 
@@ -47,7 +57,8 @@ Collect proposals, suggestions, and preferences from participants securely and p
 
 **Key Points:**
 
-- **Encrypted Proposals and Votes:** Participants contribute ideas and preferences securely, protecting sensitive information at a fine-grained level.
+- **Encrypted Proposals and Votes:** Participants contribute ideas and preferences securely, protecting sensitive
+- information at a fine-grained level.
 - **Privacy Preservation:** zk-SNARKs keep inputs confidential while allowing system verification.
 - **zkSync Era:** Provides scalability and low transaction fees with native zk-SNARK support.
 
@@ -55,25 +66,33 @@ Collect proposals, suggestions, and preferences from participants securely and p
 
 ### 2. Modular DAO Layer
 
-**Purpose:**  
-Integrate governance logic into decision-making workflows, process encrypted inputs, and determine actions reflecting the collective human will using consensus mechanisms.
+**Purpose:**
+Integrate governance logic into decision-making workflows, process encrypted inputs, and determine actions reflecting
+the collective human will using consensus mechanisms.
 
 **Process:**
 
 - **Aggregation of Inputs:**
+
   - Collects encrypted proposals and votes from the Human Input Layer.
 
 - **Governance Logic Application:**
+
   - **Smart Contracts:** Implemented in **Solidity**, defining governance logic, voting mechanisms, and verification processes.
 
 - **Consensus Mechanisms:**
+
   - Validators reach consensus using hybrids of **Multi-Agent Scalable Byzantine Fault Tolerance (BFT)**.
 
 - **Voting Mechanisms Applied:**
-  - **Liquid Democracy:** Participants can delegate their voting power to trusted representatives, creating a dynamic and flexible network of representation.
-  - **Quadratic Voting:** Allows participants to express the intensity of their preferences, with the cost of votes increasing quadratically to prevent dominance by large stakeholders.
+
+  - **Liquid Democracy:** Participants can delegate their voting power to trusted representatives, creating a dynamic
+    and flexible network of representation.
+  - **Quadratic Voting:** Allows participants to express the intensity of their preferences, with the cost of votes
+    increasing quadratically to prevent dominance by large stakeholders.
 
 - **Decision Processing:**
+
   - Aggregates inputs and applies governance logic to process votes and reach decisions reflecting collective preferences.
 
 - **Recording Decisions:**
@@ -89,22 +108,26 @@ Integrate governance logic into decision-making workflows, process encrypted inp
 
 ### 3. Execution Layer
 
-**Purpose:**  
-Execute governance directives using autonomous AI agents within secure environments, ensuring modularity and composability for adaptability and scalability.
+**Purpose:**
+Execute governance directives using autonomous AI agents within secure environments, ensuring modularity and composability
+for adaptability and scalability.
 
 **Process:**
 
 - **Reception of Directives:**
+
   - Agents retrieve tasks based on decisions recorded on-chain, interpreting executable commands from the Modular DAO Layer.
 
 - **Autonomous Agents Execution:**
+
   - **Framework:** Agents are developed through the **SPADE** framework, allowing for modular and composable agent design.
   - **Capabilities:**
     - **Task Execution:** Perform tasks such as resource allocation, policy enforcement, financial management, and DAO initiatives.
     - **Blockchain Interaction:** Retrieve directives and submit execution proofs.
 
 - **Secure Execution Environment:**
-  - Agents execute tasks within **Zero-Knowledge Virtual Machines (zkVMs)**, specifically utilizing the **RISC Zero zkVM** implementation.
+  - Agents execute tasks within **Zero-Knowledge Virtual Machines (zkVMs)**, specifically utilizing the **RISC Zero zkVM**
+    implementation.
 
 **Key Points:**
 

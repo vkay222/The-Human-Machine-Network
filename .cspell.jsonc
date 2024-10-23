@@ -5,6 +5,10 @@
   "language": "en",
   // Words to include in the dictionary.
   "words": [
+    "composability",
+    "Groth",
+    "Pedersen",
+    "Trustlessness",
     "ZKPs"
   ],
   // Paths to ignore when spell checking.
