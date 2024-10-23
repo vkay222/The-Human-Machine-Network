@@ -1,4 +1,4 @@
-# Human-Machine Network (HMN)
+# The Human-Machine Network (HMN)
 
 ## Table of Contents
 
