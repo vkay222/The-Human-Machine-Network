@@ -20,6 +20,8 @@
 - [Integration with Existing Systems](#integration-with-existing-systems)
 - [Legal and Ethical Considerations](#legal-and-ethical-considerations)
 
+---
+
 ## Overview
 
 This document describes a practical implementation of the Human-Machine Network (HMN) for managing a community of 1000+ members.

@@ -11,12 +11,15 @@
       ".gitattributes": true,
       ".cspell.jsonc": true,
       ".gitignore": true,
-      ".prettierrc": true
+      ".prettierrc": true,
+      "LICENSE": true
     },
     "editor.formatOnPaste": false,
     "editor.formatOnSave": true,
     "files.associations": {
-      "*.json": "jsonc"
+      "*.json": "jsonc",
+      "LICENSE": "plaintext",
+      "commit.ai": "plaintext"
     },
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "[properties]": {

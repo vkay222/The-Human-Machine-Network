@@ -2,6 +2,11 @@
   "$schema": "https://raw.githubusercontent.com/DavidAnson/markdownlint/main/schema/markdownlint-config-schema.json",
   "default": true,
 
+  // Ignore specific files or patterns
+  "MD000": {
+    "ignore": ["./LICENSE"]
+  },
+
   // MD001: Heading levels should only increment by one level at a time
   "MD001": true,
 

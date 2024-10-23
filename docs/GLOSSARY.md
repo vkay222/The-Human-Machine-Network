@@ -27,6 +27,8 @@
   - [Solidity](#solidity)
   - [Zero-Knowledge Proofs](#zero-knowledge-proofs)
 
+---
+
 ## Core Concepts
 
 ### HMN (Human-Machine Network)

@@ -6,6 +6,8 @@
 - [Cloning Your Fork](#cloning-your-fork)
 - [Creating Commit Messages](#creating-commit-messages)
 
+---
+
 ## Forking the Repository
 
 - Click the **Fork** button at the top-right of this page to create your own copy of the repository.
@@ -24,7 +26,7 @@ We use commitizen with gitmoji for standardized commit messages. To generate a p
 a. In the Cursor AI chat:
 
 - Type `@` and select "PR (Diff with Main Branch)"
-- Type `@` again and select "commit.txt"
+- Type `@` again and select "commit.ai"
 - Press Enter
 
 The AI will generate a properly formatted commit message based on your changes.
