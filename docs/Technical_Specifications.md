@@ -118,9 +118,3 @@ Execute governance directives using autonomous AI agents within secure environme
 
 - **Autonomous AI Agents:** Ensure tasks are executed efficiently and securely.
 - **zkVMs:** Provide a secure environment for task execution, maintaining data privacy and integrity.
-
----
-
-## Contact
-
-For questions or suggestions, please contact [your-email@example.com](mailto:your-email@example.com).
