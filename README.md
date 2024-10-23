@@ -1,5 +1,7 @@
 # The Human-Machine Network (HMN) <!-- omit in toc -->
 
+![illustration](docs/imgs/img1.png)
+
 ## Table of Contents <!-- omit in toc -->
 
 - [Abstract](#abstract)

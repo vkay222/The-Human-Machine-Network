@@ -1,5 +1,7 @@
 # Documentation for Human-Machine Network (HMN)
 
+![illustration](docs/imgs/img4.png)
+
 Here you'll find detailed information about the project's architecture, workflow, technical layers, and more.
 
 Below is a link to the detailed project explanation:
