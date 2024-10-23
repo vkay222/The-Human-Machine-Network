@@ -47,11 +47,9 @@ The **Human-Machine Network (HMN)** operates through three abstraction layers:
 
 ### Workflow
 
-1. **Human Input Layer:** Collects governance proposals and decisions using SNARKs for data privacy and correctness.
-2. **Modular DAO Layer:** Processes inputs, applies governance logic, and reaches consensus using scalable Byzantine Fault Tolerance mechanisms.
+1. **Human Input Layer:** Collects governance proposals and decisions using SNARKs for data privacy and correctness. This layer facilitates the encoding of inputs into ecrypted proof circuits.
+2. **Modular DAO Layer:** Processes inputs, applies governance logic, and provides executable commands for agents.
 3. **Execution Layer:** Utilizes autonomous AI agents and zkVMs to implement governance directives securely.
-
-Each layer ensures effective collection, processing, and execution of human inputs, maintaining privacy and scalability as the DAO evolves.
 
 ---
 
