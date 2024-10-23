@@ -1,5 +1,7 @@
 # Technical Specifications <!-- omit in toc -->
 
+![illustration](./imgs/img5.png)
+
 ## Table of Contents <!-- omit in toc -->
 
 - [Overview](#overview)

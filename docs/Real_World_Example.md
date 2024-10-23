@@ -1,6 +1,6 @@
 # Real-World Implementation Example: Community Governance System <!-- omit in toc -->
 
-![illustration](docs/imgs/img2.png)
+![illustration](./imgs/img2.png)
 
 ## Table of Contents <!-- omit in toc -->
 

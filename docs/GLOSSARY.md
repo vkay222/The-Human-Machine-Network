@@ -1,6 +1,6 @@
 # Glossary <!-- omit in toc -->
 
-![illustration](docs/imgs/img3.png)
+![illustration](./imgs/img3.png)
 
 ## Table of Contents <!-- omit in toc -->
 
