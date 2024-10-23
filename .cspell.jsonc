@@ -5,7 +5,9 @@
   "language": "en",
   // Words to include in the dictionary.
   "words": [
+    "commitizen",
     "composability",
+    "gitmoji",
     "Groth",
     "Pedersen",
     "Trustlessness",

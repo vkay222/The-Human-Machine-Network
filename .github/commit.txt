@@ -1,0 +1,2 @@
+Help me write a commit message based on commitizen, with gitmoji.
+
