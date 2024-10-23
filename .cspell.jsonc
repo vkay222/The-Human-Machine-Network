@@ -9,7 +9,7 @@
   "ignorePaths": [
     "app.code-workspace",
     ".editorconfig",
-    ".markdownlint.json",
+    ".markdownlint.jsonc",
     ".gitattributes",
     ".gitignore",
     ".prettierrc"
