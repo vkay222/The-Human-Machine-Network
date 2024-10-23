@@ -47,7 +47,7 @@ The **Human-Machine Network (HMN)** operates through three abstraction layers:
 
 ### Architecture
 
-HMN is designed to facilitate seamless interaction and collaboration between human participants and autonomous AI agents within a decentralized framework. Below is an architectural diagram illustrating the core components and their interactions:
+Below is an architectural diagram illustrating the core components and their interactions:
 
 ![HMN Architecture Diagram](docs/architecture_diagram.png)
 
