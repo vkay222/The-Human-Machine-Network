@@ -5,9 +5,11 @@
   "language": "en",
   // Words to include in the dictionary.
   "words": [
+    "CCPA",
     "commitizen",
     "composability",
     "delegative",
+    "discoverability",
     "Gamification",
     "gitmoji",
     "Groth",

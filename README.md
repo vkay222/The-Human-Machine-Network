@@ -13,6 +13,8 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [IDE Setup](#ide-setup)
+- [Technical Specifications](#technical-specifications)
+- [Real-World Example](#real-world-example)
 - [Glossary](#glossary)
 
 ---
@@ -115,6 +117,14 @@ Recommended Extensions:
 - Prettier
 
 ---
+
+## Technical Specifications
+
+For detailed technical architecture and implementation details, see our [Technical Specifications](docs/Technical_Specifications.md).
+
+## Real-World Example
+
+For a comprehensive example of HMN implementation in practice, see our [Real-World Example](docs/Real_World_Example.md).
 
 ## Glossary
 

@@ -173,6 +173,7 @@ Topics follow a structured lifecycle:
    ````
 
 4. **Voting Phase**
+
    ````plaintext
    Status: Voting
    Duration: 48 hours
