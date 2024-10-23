@@ -14,20 +14,14 @@ The **Human-Machine Network (HMN)** operates through three abstraction layers:
 
 ### Workflow
 
-1. **Human Input Layer:** 
-   - Collects human input (governance proposals, ideas, decisions, etc.) using **SNARKs** to ensure data privacy and verifiable correctness.
-   - Facilitates the encoding of human inputs into encrypted proof circuits.
+The Human Input Layer collects human input (governance proposals, ideas, decisions etc.) using SNARKs to ensure data privacy and verifiable correctness. This layer facilitates the encoding of human inputs into encrypted proof circuits.
 
-2. **Modular DAO Layer:** 
-   - Processes these inputs autonomously to integrate governance logic into decision-making workflows.
-   - Operates with transparency by tallying human inputs and generating executable commands for agents.
-   - Within this layer, agents reach consensus on governance decisions through mechanisms like scalable multi-agent **Byzantine Fault Tolerance (BFT)** and other algorithmic consensus mechanisms.
+The Modular DAO Layer processes these inputs autonomously to integrate governance logic into decision-making workflows, operating with transparency by tallying human inputs and generating executable commands for agents. Within this layer, agents reach consensus on what governance decisions to make through consensus mechanisms such as scalable multi-agent Byzantine Fault Tolerance, and other algorithmic consensus mechanisms.
 
-3. **Execution Layer:** 
-   - Leverages autonomous AI agents which utilize **zkVMs** to implement governance directives in a secure execution environment once consensus has been reached on the decision.
-   - Agents could be tasked with financial management, policy enforcement, resource allocation, and more.
+The Execution Layer leverages autonomous AI agents which utilize zkVMs to implement governance directives in a secure execution environment once consensus has been reached on what decision to make. Agents could be tasked with financial management, policy enforcement, resource allocation, and more.
 
-Each layer ensures that human inputs are effectively collected, processed, and executed by agents in alignment with human intentions. The system employs granular privacy measures and utilizes modular, composable agents for flexibility and scalability as the DAO evolves.
+Each layer plays a role in the governance process, ensuring that human inputs are effectively collected, processed, and executed by agents in alignment with humans. The system employs granular privacy measures and utilizes modular, composable agents for flexibility and scalability as the DAO evolves.
+
 
 ---
 
