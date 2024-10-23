@@ -162,5 +162,5 @@ These instructions will help you set up the HMN project on your local machine fo
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/Human-Machine-Network.git
+   git clone https://github.com/yourusername/The-Human-Machine-Network.git
    cd Human-Machine-Network
