@@ -22,6 +22,8 @@ The **Human-Machine Network (HMN)** operates through three abstraction layers:
 
 ### Architecture
 
+<!-- TODO: Add the actual diagram -->
+
 ![HMN Architecture Diagram](docs/architecture_diagram.png)
 
 ### Workflow
