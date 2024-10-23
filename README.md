@@ -8,12 +8,12 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/yourusername/Human-Machine-Network/graphs/commit-activity)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/Human-Machine-Network)](https://github.com/yourusername/Human-Machine-Network/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/Human-Machine-Network)](https://github.com/yourusername/Human-Machine-Network/pulls)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/Human-Machine-Network)](https://github.com/yourusername/Human-Machine-Network/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/Human-Machine-Network)](https://github.com/yourusername/Human-Machine-Network/network)
-[![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/Human-Machine-Network)](https://github.com/yourusername/Human-Machine-Network/commits/main)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/vkay222/The-Human-Machine-Network/graphs/commit-activity)
+[![GitHub issues](https://img.shields.io/github/issues/vkay222/The-Human-Machine-Network)](https://github.com/vkay222/The-Human-Machine-Network/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/vkay222/The-Human-Machine-Network)](https://github.com/vkay222/The-Human-Machine-Network/pulls)
+[![GitHub stars](https://img.shields.io/github/stars/vkay222/The-Human-Machine-Network)](https://github.com/vkay222/The-Human-Machine-Network/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/vkay222/The-Human-Machine-Network)](https://github.com/vkay222/The-Human-Machine-Network/network)
+[![GitHub last commit](https://img.shields.io/github/last-commit/vkay222/The-Human-Machine-Network)](https://github.com/vkay222/The-Human-Machine-Network/commits/main)
 
 ## Table of Contents <!-- omit in toc -->
 
