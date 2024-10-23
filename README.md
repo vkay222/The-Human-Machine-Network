@@ -6,14 +6,17 @@
 
 ## Table of Contents
 
-- [Abstract](#abstract)
-- [The HMN in Two Sentences](#the-hmn-in-two-sentences)
-- [Overview](#overview)
-  - [Architecture](#architecture)
-  - [Workflow](#workflow)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+- [The Human-Machine Network (HMN)](#the-human-machine-network-hmn)
+  - [Table of Contents](#table-of-contents)
+  - [Abstract](#abstract)
+  - [The HMN in Two Sentences](#the-hmn-in-two-sentences)
+  - [Overview](#overview)
+    - [Architecture](#architecture)
+    - [Workflow](#workflow)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+  - [Glossary](#glossary)
 
 ---
 
@@ -55,6 +58,8 @@ The **Human-Machine Network (HMN)** operates through three abstraction layers:
 
 ### Architecture
 
+<!-- TODO: Add architecture diagram -->
+
 ![HMN Architecture Diagram](docs/architecture_diagram.png)
 
 ### Workflow
@@ -84,3 +89,9 @@ These instructions will help you set up the HMN project on your local machine fo
    git clone https://github.com/yourusername/Human-Machine-Network.git
    cd Human-Machine-Network
    ```
+
+---
+
+## Glossary
+
+For definitions of key terms and concepts used in this project, please refer to our [Glossary](.github/GLOSSARY.md).
