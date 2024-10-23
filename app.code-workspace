@@ -7,7 +7,7 @@
   "settings": {
     "files.exclude": {
       ".editorconfig": true,
-      // ".markdownlint.jsonc": true,
+      ".markdownlint.jsonc": true,
       ".gitattributes": true,
       ".cspell.jsonc": true,
       ".gitignore": true,

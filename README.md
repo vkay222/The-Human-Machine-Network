@@ -10,6 +10,7 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
+  - [IDE Setup](#ide-setup)
 - [Glossary](#glossary)
 
 ---
@@ -83,6 +84,33 @@ These instructions will help you set up the HMN project on your local machine fo
    git clone https://github.com/yourusername/Human-Machine-Network.git
    cd Human-Machine-Network
    ```
+
+### IDE Setup
+
+For VS Code and Cursor users:
+
+1. Open the workspace file:
+
+   ```bash
+   code app.code-workspace
+   ```
+
+This workspace configuration includes:
+
+- Recommended extensions for development
+- Consistent code formatting settings
+- File associations and exclusions
+- Spell checking configuration
+
+The workspace ensures all developers have the same development experience and code quality tools.
+
+Recommended Extensions:
+
+- Code Spell Checker
+- Better Comments
+- Todo Tree
+- Markdown All in One
+- Prettier
 
 ---
 
