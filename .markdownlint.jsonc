@@ -210,9 +210,7 @@
 
   // MD043: Required heading structure
   // headings: array of headings to require (default: null)
-  "MD043": {
-    "headings": []
-  },
+  "MD043": false,
 
   // MD044: Proper names should have the correct capitalization
   // names: list of proper names (default: [])

@@ -4,7 +4,9 @@
   // Language to use for spell checking.
   "language": "en",
   // Words to include in the dictionary.
-  "words": [],
+  "words": [
+    "ZKPs"
+  ],
   // Paths to ignore when spell checking.
   "ignorePaths": [
     "app.code-workspace",
@@ -26,5 +28,8 @@
     }
   ],
   // Dictionaries to use for spell checking.
-  "dictionaries": ["en_US", "softwareTerms"]
+  "dictionaries": [
+    "en_US",
+    "softwareTerms"
+  ]
 }
