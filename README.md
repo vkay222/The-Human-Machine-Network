@@ -1,22 +1,16 @@
-<!-- omit in toc -->
+# The Human-Machine Network (HMN) <!-- omit in toc -->
 
-# The Human-Machine Network (HMN)
+## Table of Contents <!-- omit in toc -->
 
-<!-- omit in toc -->
-
-## Table of Contents
-
-- [The Human-Machine Network (HMN)](#the-human-machine-network-hmn)
-  - [Table of Contents](#table-of-contents)
-  - [Abstract](#abstract)
-  - [The HMN in Two Sentences](#the-hmn-in-two-sentences)
-  - [Overview](#overview)
-    - [Architecture](#architecture)
-    - [Workflow](#workflow)
-  - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-  - [Glossary](#glossary)
+- [Abstract](#abstract)
+- [The HMN in Two Sentences](#the-hmn-in-two-sentences)
+- [Overview](#overview)
+  - [Architecture](#architecture)
+  - [Workflow](#workflow)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Glossary](#glossary)
 
 ---
 

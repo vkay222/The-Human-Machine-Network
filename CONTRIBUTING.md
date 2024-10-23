@@ -1,9 +1,10 @@
-# Contributing Guidelines
+# Contributing Guidelines <!-- omit in toc -->
 
-- [Contributing Guidelines](#contributing-guidelines)
-  - [Forking the Repository](#forking-the-repository)
-  - [Cloning Your Fork](#cloning-your-fork)
-  - [Creating Commit Messages](#creating-commit-messages)
+## Table of Contents <!-- omit in toc -->
+
+- [Forking the Repository](#forking-the-repository)
+- [Cloning Your Fork](#cloning-your-fork)
+- [Creating Commit Messages](#creating-commit-messages)
 
 ## Forking the Repository
 

@@ -1,4 +1,14 @@
-# Technical Specifications
+# Technical Specifications <!-- omit in toc -->
+
+## Table of Contents <!-- omit in toc -->
+
+- [Overview](#overview)
+  - [Architecture](#architecture)
+  - [Workflow](#workflow)
+- [Layers](#layers)
+  - [1. Human Input Layer](#1-human-input-layer)
+  - [2. Modular DAO Layer](#2-modular-dao-layer)
+  - [3. Execution Layer](#3-execution-layer)
 
 ## Overview
 

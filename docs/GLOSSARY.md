@@ -1,4 +1,29 @@
-# Glossary
+# Glossary <!-- omit in toc -->
+
+## Table of Contents <!-- omit in toc -->
+
+- [Core Concepts](#core-concepts)
+  - [HMN (Human-Machine Network)](#hmn-human-machine-network)
+- [Architecture Layers](#architecture-layers)
+  - [Human Input Layer](#human-input-layer)
+  - [Modular DAO Layer](#modular-dao-layer)
+  - [Execution Layer](#execution-layer)
+- [Technical Terms](#technical-terms)
+  - [BFT (Byzantine Fault Tolerance)](#bft-byzantine-fault-tolerance)
+  - [BLS12-381](#bls12-381)
+  - [DAO (Decentralized Autonomous Organization)](#dao-decentralized-autonomous-organization)
+  - [Groth16](#groth16)
+  - [Liquid Democracy](#liquid-democracy)
+  - [Pedersen Hash](#pedersen-hash)
+  - [Quadratic Voting](#quadratic-voting)
+  - [RISC Zero zkVM](#risc-zero-zkvm)
+  - [SNARK (Succinct Non-interactive Argument of Knowledge)](#snark-succinct-non-interactive-argument-of-knowledge)
+  - [SPADE Framework](#spade-framework)
+  - [zkSync Era](#zksync-era)
+  - [zkVM (Zero-Knowledge Virtual Machine)](#zkvm-zero-knowledge-virtual-machine)
+- [Related Technologies](#related-technologies)
+  - [Solidity](#solidity)
+  - [Zero-Knowledge Proofs](#zero-knowledge-proofs)
 
 ## Core Concepts
 
