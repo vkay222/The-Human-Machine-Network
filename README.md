@@ -33,7 +33,8 @@ Governance systems face issues with bureaucratic inertia, privacy concerns, and 
 
 ## The HMN in Two Sentences
 
-The Human-Machine Network (HMN)** is a framework for a new paradigm of decentralized governance that integrates autonomous AI agents, ZK-encryption, scalable voting, game theory, and consensus mechanisms within DAOs. This system may underpin future parallel societies or network states. 
+The HMN is a framework for a new paradigm of decentralized governance that integrates autonomous AI agents, ZK-encryption, scalable voting, game theory, and consensus mechanisms within DAOs. This system may underpin future parallel societies or network states. 
+
 ---
 
 ## Overview
