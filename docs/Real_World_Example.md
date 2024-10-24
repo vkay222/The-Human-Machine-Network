@@ -137,54 +137,51 @@ Topics follow a structured lifecycle:
 
 1. **Submission Phase**
 
-   ````plaintext
+   ```plaintext
    Status: Open
    Duration: Indefinite
    Action: Gathering momentum
    Visibility: Public
    Engagement Metrics: Views, Comments, Likes
    AI Analysis: Relevance score, potential impact assessment
-   Related Topics: Automatically linked   ```
-
-   ````
+   Related Topics: Automatically linked
+   ```
 
 2. **Rising Phase**
 
-   ````plaintext
+   ```plaintext
    Status: Trending
    Duration: 72 hours
    Action: Rapid ranking
    Boost: Featured in community highlights
    Notifications: Sent to relevant experts
    Engagement: Facilitated discussions, expert Q&A sessions
-   Refinement: Collaborative topic shaping and scoping   ```
-
-   ````
+   Refinement: Collaborative topic shaping and scoping
+   ```
 
 3. **Proposal Phase**
 
-   ````plaintext
+   ```plaintext
    Status: Active
    Duration: 7 days
    Action: Collecting solutions
    Resources: Proposal templates, relevant data, impact assessment tools
    Collaboration: Open editing, commenting, version control
    Expert Input: Solicited feedback from verified domain experts
-   AI Assistance: Proposal refinement, conflict resolution   ```
-
-   ````
+   AI Assistance: Proposal refinement, conflict resolution
+   ```
 
 4. **Voting Phase**
 
-   ````plaintext
+   ```plaintext
    Status: Voting
    Duration: 48 hours
    Action: Final decision
    Transparency: Real-time results visible
    Accessibility: Multiple voting methods (direct, delegated)
    Security: Zero-knowledge proofs for anonymous voting
-   Auditing: Verifiable voting records without compromising privacy   ```
-   ````
+   Auditing: Verifiable voting records without compromising privacy
+   ```
 
 ## Reputation System
 
@@ -202,7 +199,7 @@ Reputation scores are calculated using:
 
 2. **Scoring Formula**
 
-   ````plaintext
+   ```plaintext
    Topic_Weight = (Base_Rep × 0.3) +
                   (Domain_Expertise × 0.5) +
                   (Success_Rate × 0.2)
@@ -211,9 +208,8 @@ Reputation scores are calculated using:
                  (Participation_Bonus × 0.1) +
                  (Diversity_Factor × 0.1) +
                  (Learning_Growth × 0.1) +
-                 (Community_Support × 0.1)   ```
-
-   ````
+                 (Community_Support × 0.1)
+   ```
 
 3. **Reputation Growth**
    - Successful proposal implementation: +10 points
@@ -229,7 +225,7 @@ Reputation scores are calculated using:
 
 1. **Topic Example: "Community Solar Grid"**
 
-   ````plaintext
+   ```plaintext
    Title: Community Solar Grid Implementation
    Tags: #Energy #Infrastructure #Finance #Sustainability
    Status: Rising
@@ -238,13 +234,12 @@ Reputation scores are calculated using:
    Related Topics: Renewable Energy, Local Power Distribution, Energy Storage
    Potential Impact: High (AI-assessed)
    Environmental Impact: Positive (CO2 reduction estimated)
-   Economic Analysis: ROI projection, job creation potential   ```
-
-   ````
+   Economic Analysis: ROI projection, job creation potential
+   ```
 
 2. **Proposal Structure**
 
-   ````plaintext
+   ```plaintext
    Title: [Proposal Name]
    Author: [Member + Agent ID]
    Expertise: [Relevant Tags]
@@ -256,21 +251,20 @@ Reputation scores are calculated using:
    Environmental Impact: [Sustainability considerations]
    Financial Projections: [Cost-benefit analysis, funding sources]
    Stakeholder Analysis: [Affected parties and engagement strategies]
-   Legal Considerations: [Regulatory compliance, required permits]   ```
-
-   ````
+   Legal Considerations: [Regulatory compliance, required permits]
+   ```
 
 3. **Voting Weights**
 
-   ````plaintext
+   ```plaintext
    Final_Vote_Weight = (Personal_Rep × 0.4) +
                        (Expertise_Score × 0.4) +
                        (Stake_Factor × 0.2)
 
    Stake_Factor = f(financial_stake, time_investment, impact_on_individual)
 
-   Expertise_Score = (Domain_Knowledge × 0.6) + (Relevant_Experience × 0.4)   ```
-   ````
+   Expertise_Score = (Domain_Knowledge × 0.6) + (Relevant_Experience × 0.4)
+   ```
 
 ## Security and Privacy Considerations
 

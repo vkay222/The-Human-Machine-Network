@@ -141,4 +141,4 @@ For a comprehensive example of HMN implementation in practice, see our [Real-Wor
 
 ## Glossary
 
-For definitions of key terms and concepts used in this project, please refer to our [Glossary](.github/GLOSSARY.md).
+For definitions of key terms and concepts used in this project, please refer to our [Glossary](docs/GLOSSARY.md).
