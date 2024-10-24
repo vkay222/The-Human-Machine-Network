@@ -44,9 +44,7 @@ Network States, Game Theory, Quadratic Voting, Liquid Democracy
 
 ## The HMN in Two Sentences
 
-The HMN is a new paradigm of decentralized governance that integrates autonomous AI agents, ZK-encryption,
-scalable voting, game theory, and consensus mechanisms within DAOs. This system may underpin future parallel societies
-or network states.
+The HMN is a new paradigm of decentralized governance that integrates autonomous AI agents, ZK-encryption, scalable voting, game theory, and consensus mechanisms within DAOs. This system may underpin future parallel societies or network states. 
 
 ---
 
