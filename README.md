@@ -1,9 +1,7 @@
-# The Human-Machine Network (HMN) <!-- omit in toc -->
-
-![illustration](docs/imgs/img1.png)
+# Human-Machine Network (HMN)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Documentation](https://img.shields.io/badge/docs-latest-blue.svg)](docs/README.md)
+[![Documentation](https://img.shields.io/badge/docs-latest-blue.svg)](docs/00_Executive_Summary.md)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
@@ -13,132 +11,78 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/vkay222/The-Human-Machine-Network)](https://github.com/vkay222/The-Human-Machine-Network/pulls)
 [![GitHub stars](https://img.shields.io/github/stars/vkay222/The-Human-Machine-Network)](https://github.com/vkay222/The-Human-Machine-Network/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/vkay222/The-Human-Machine-Network)](https://github.com/vkay222/The-Human-Machine-Network/network)
-[![GitHub last commit](https://img.shields.io/github/last-commit/vkay222/The-Human-Machine-Network)](https://github.com/vkay222/The-Human-Machine-Network/commits/main)
+[![GitHub last commit](https://github.com/vkay222/The-Human-Machine-Network/commits/main)](https://github.com/vkay222/The-Human-Machine-Network/commits/main)
 
-## Table of Contents <!-- omit in toc -->
+![illustration](docs/imgs/img1.png)
 
-- [Abstract](#abstract)
-- [The HMN in Two Sentences](#the-hmn-in-two-sentences)
-- [Overview](#overview)
-  - [Architecture](#architecture)
-  - [Workflow](#workflow)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [IDE Setup](#ide-setup)
-- [Technical Specifications](#technical-specifications)
-- [Real-World Example](#real-world-example)
-- [Glossary](#glossary)
+## Table of Contents
 
----
+- [Human-Machine Network (HMN)](#human-machine-network-hmn)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Key Features](#key-features)
+  - [Documentation](#documentation)
+  - [Getting Started](#getting-started)
+  - [Contributing](#contributing)
+  - [Code of Conduct](#code-of-conduct)
+  - [License](#license)
 
-## Abstract
+## Introduction
 
-Governance systems face issues with bureaucratic inertia, privacy concerns, and the concentration of power amongst a few
-decision-makers. We describe the **Human-Machine Network (HMN)**, a new paradigm of governance facilitating human-machine
-collaboration within Decentralized Autonomous Organizations (DAOs). The HMN orchestrates the interaction between human
-inputs and a network of autonomous AI agents who execute on governance directives. This framework proposes efficiency,
-reduces cooperative dilemmas, and addresses privacy concerns facilitated by advancements in Zero-Knowledge Proofs (ZKPs),
-including Succinct Non-Interactive Arguments of Knowledge (**SNARKs**) and Zero-Knowledge Virtual Machines (**zkVMs**).
-Scalability challenges inherent to voting are addressed through liquid democracy and quadratic voting, along with consensus
-mechanisms amongst agents to execute decisions on the collective human will. The systems described possess the potential
-to redefine traditional bureaucracies and enable parallel societies whilst orchestrating consensus across vast numbers of
-participants. This Human-Machine collaboration is brought about in a decentralized, scalable, efficient, and privacy-preserving
-manner.
+The Human-Machine Network (HMN) is a sophisticated decentralized governance system that leverages artificial
+intelligence, blockchain technology, and human expertise to create a robust, scalable, and fair decision-making
+platform. HMN aims to address the challenges of traditional governance systems by providing a transparent, efficient,
+and adaptable framework for community-driven decision-making.
 
-**Key Words:** Decentralized Autonomous Organizations, Zero-Knowledge Proofs, Succinct-Interactive Arguments of Knowledge,
-Zero-Knowledge Virtual Machines, Multi-Agent Systems, Byzantine Fault Tolerance, Distributed Systems, Consensus Mechanisms,
-Network States, Game Theory, Quadratic Voting, Liquid Democracy
+For a comprehensive overview of the HMN framework, please refer to our [Executive Summary](docs/00_Executive_Summary.md).
 
----
+## Key Features
 
-## The HMN in Two Sentences
+- Decentralized Decision-Making
+- AI-Assisted Governance
+- Polycentric Governance Structure
+- Smart Agent Economy
+- Verifiable AI Inference
+- Blockchain-based Transparency and Immutability
+- Zero-Knowledge Proofs for Privacy
+- Cross-Chain Interoperability
 
-The HMN is a new paradigm of decentralized governance that integrates autonomous AI agents, ZK-encryption, scalable
-voting, game theory, and consensus mechanisms within DAOs. This system may underpin future parallel societies or
-network states.
+## Documentation
 
----
-
-## Overview
-
-The **Human-Machine Network (HMN)** operates through three abstraction layers:
-
-1. **Human Input Layer**
-2. **Modular DAO Layer**
-3. **Execution Layer**
-
-### Architecture
-
-<!-- TODO: Add architecture diagram -->
-
-![HMN Architecture Diagram](docs/architecture_diagram.png)
-
-### Workflow
-
-1. **Human Input Layer:** Collects governance proposals and decisions using SNARKs for data privacy and correctness.
-2. This layer facilitates the encoding of inputs into encrypted proof circuits.
-3. **Modular DAO Layer:** Processes inputs, applies governance logic, and provides executable commands for agents.
-4. **Execution Layer:** Utilizes autonomous AI agents and zkVMs to implement governance directives securely.
-
----
+1. [Executive Summary](docs/00_Executive_Summary.md)
+2. [Introduction](docs/01_Introduction.md)
+3. [Theoretical Framework](docs/02_Theoretical_Framework.md)
+4. [System Architecture](docs/03_System_Architecture.md)
+5. [AI Integration](docs/04_AI_Integration.md)
+6. [Governance Model](docs/05_Governance_Model.md)
+7. [Implementation Guide](docs/06_Implementation_Guide.md)
+8. [Case Studies](docs/07_Case_Studies.md)
+9. [Future Directions](docs/08_Future_Directions.md)
+10. [AI Resource Integration](docs/09_AI_Resource_Integration.md)
+11. [Learning Roadmap](docs/10_Learning_Roadmap.md)
+12. [Glossary](docs/11_Glossary.md)
 
 ## Getting Started
 
-These instructions will help you set up the HMN project on your local machine for development and testing purposes.
+To get started with the HMN project:
 
-### Prerequisites
+1. Review the [Executive Summary](docs/00_Executive_Summary.md) to understand the core concepts and goals.
+2. Explore the [System Architecture](docs/03_System_Architecture.md) to understand the overall structure.
+3. Follow the [Implementation Guide](docs/06_Implementation_Guide.md) for step-by-step instructions on setting up and
+   deploying the HMN system.
+4. Use the documentation to gain a comprehensive understanding of the technologies and concepts involved.
+5. Check out the [Case Studies](docs/07_Case_Studies.md) for practical implementation scenarios.
 
-- [Git](https://git-scm.com/downloads)
-- [Node.js](https://nodejs.org/) (v14 or higher)
-- [Hardhat](https://hardhat.org/) for smart contract development
+## Contributing
 
-### Installation
+We welcome contributions to the HMN project. Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on
+how to submit pull requests, report issues, and suggest improvements.
 
-1. **Clone the Repository:**
+## Code of Conduct
 
-   ```bash
-   git clone https://github.com/yourusername/Human-Machine-Network.git
-   cd Human-Machine-Network
-   ```
+We are committed to fostering an open and welcoming environment. Please read our [Code of Conduct](CODE_OF_CONDUCT.md)
+to understand the behavior we expect from all participants in our community.
 
-### IDE Setup
+## License
 
-For VS Code and Cursor users:
-
-1. Open the workspace file:
-
-   ```bash
-   code app.code-workspace
-   ```
-
-This workspace configuration includes:
-
-- Recommended extensions for development
-- Consistent code formatting settings
-- File associations and exclusions
-- Spell checking configuration
-
-The workspace ensures all developers have the same development experience and code quality tools.
-
-Recommended Extensions:
-
-- Code Spell Checker
-- Better Comments
-- Todo Tree
-- Markdown All in One
-- Prettier
-
----
-
-## Technical Specifications
-
-For detailed technical architecture and implementation details, see our [Technical Specifications](docs/Technical_Specifications.md).
-
-## Real-World Example
-
-For a comprehensive example of HMN implementation in practice, see our [Real-World Example](docs/Real_World_Example.md).
-
-## Glossary
-
-For definitions of key terms and concepts used in this project, please refer to our [Glossary](docs/GLOSSARY.md).
+This project is licensed under the [MIT License](LICENSE).

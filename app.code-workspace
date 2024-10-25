@@ -9,7 +9,7 @@
       ".editorconfig": true,
       // ".markdownlint.jsonc": true,
       ".gitattributes": true,
-      ".cspell.jsonc": true,
+      // ".cspell.jsonc": true,
       ".gitignore": true,
       ".prettierrc": true,
       "LICENSE": true
