@@ -5,6 +5,7 @@
 - [Forking the Repository](#forking-the-repository)
 - [Cloning Your Fork](#cloning-your-fork)
 - [Creating Commit Messages](#creating-commit-messages)
+- [Writing Markdown Files](#writing-markdown-files)
 
 ---
 
@@ -38,3 +39,16 @@ git commit -m "📚 docs: add new feature documentation"
 ```
 
 Note: This commit message workflow is designed for use with Cursor IDE and its integrated AI assistant.
+
+## Writing Markdown Files
+
+We use md.ai to ensure consistent markdown formatting across the project. To validate your markdown files in Cursor IDE:
+
+a. In the Cursor AI chat:
+
+- Type `@` and select "md.ai"
+- Press Enter
+
+The AI will check your markdown against the project's `.markdownlint.jsonc` rules and suggest any necessary formatting corrections.
+
+Note: This markdown validation workflow is designed for use with Cursor IDE and its integrated AI assistant.

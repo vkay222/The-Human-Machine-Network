@@ -7,7 +7,7 @@
   "settings": {
     "files.exclude": {
       ".editorconfig": true,
-      ".markdownlint.jsonc": true,
+      // ".markdownlint.jsonc": true,
       ".gitattributes": true,
       ".cspell.jsonc": true,
       ".gitignore": true,
@@ -23,6 +23,9 @@
     },
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "[properties]": {
+      "editor.defaultFormatter": "foxundermoon.shell-format"
+    },
+    "[ignore]": {
       "editor.defaultFormatter": "foxundermoon.shell-format"
     }
   },

@@ -5,16 +5,21 @@
   "language": "en",
   // Words to include in the dictionary.
   "words": [
+    "ASEAN",
     "CCPA",
     "commitizen",
     "composability",
     "delegative",
     "discoverability",
     "Gamification",
+    "Gamified",
     "gitmoji",
     "Groth",
+    "markdownlint",
     "Mitigations",
     "Pedersen",
+    "polycentric",
+    "Templating",
     "Trustlessness",
     "ZKPs"
   ],

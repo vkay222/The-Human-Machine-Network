@@ -8,7 +8,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/vkay222/The-Human-Machine-Network/graphs/commit-activity)
+[![Maintenance](https://img.shields.io-badge/Maintained%3F-yes-green.svg)](https://github.com/vkay222/The-Human-Machine-Network/graphs/commit-activity)
 [![GitHub issues](https://img.shields.io/github/issues/vkay222/The-Human-Machine-Network)](https://github.com/vkay222/The-Human-Machine-Network/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/vkay222/The-Human-Machine-Network)](https://github.com/vkay222/The-Human-Machine-Network/pulls)
 [![GitHub stars](https://img.shields.io/github/stars/vkay222/The-Human-Machine-Network)](https://github.com/vkay222/The-Human-Machine-Network/stargazers)
@@ -34,7 +34,17 @@
 
 ## Abstract
 
-Governance systems face issues with bureaucratic inertia, privacy concerns, and the concentration of power amongst a few decision-makers. We describe the **Human-Machine Network (HMN)**, a new paradigm of governance facilitating human-machine collaboration within Decentralized Autonomous Organizations (DAOs). The HMN orchestrates the interaction between human inputs and a network of autonomous AI agents who execute on governance directives. This framework proposes efficiency, reduces cooperative dilemmas, and addresses privacy concerns facilitated by advancements in Zero-Knowledge Proofs (ZKPs), including Succinct Non-Interactive Arguments of Knowledge (**SNARKs**) and Zero-Knowledge Virtual Machines (**zkVMs**). Scalability challenges inherent to voting are addressed through liquid democracy and quadratic voting, along with consensus mechanisms amongst agents to execute decisions on the collective human will. The systems described possess the potential to redefine traditional bureaucracies and enable parallel societies whilst orchestrating consensus across vast numbers of participants. This Human-Machine collaboration is brought about in a decentralized, scalable, efficient, and privacy-preserving manner.
+Governance systems face issues with bureaucratic inertia, privacy concerns, and the concentration of power amongst a few
+decision-makers. We describe the **Human-Machine Network (HMN)**, a new paradigm of governance facilitating human-machine
+collaboration within Decentralized Autonomous Organizations (DAOs). The HMN orchestrates the interaction between human
+inputs and a network of autonomous AI agents who execute on governance directives. This framework proposes efficiency,
+reduces cooperative dilemmas, and addresses privacy concerns facilitated by advancements in Zero-Knowledge Proofs (ZKPs),
+including Succinct Non-Interactive Arguments of Knowledge (**SNARKs**) and Zero-Knowledge Virtual Machines (**zkVMs**).
+Scalability challenges inherent to voting are addressed through liquid democracy and quadratic voting, along with consensus
+mechanisms amongst agents to execute decisions on the collective human will. The systems described possess the potential
+to redefine traditional bureaucracies and enable parallel societies whilst orchestrating consensus across vast numbers of
+participants. This Human-Machine collaboration is brought about in a decentralized, scalable, efficient, and privacy-preserving
+manner.
 
 **Key Words:** Decentralized Autonomous Organizations, Zero-Knowledge Proofs, Succinct-Interactive Arguments of Knowledge,
 Zero-Knowledge Virtual Machines, Multi-Agent Systems, Byzantine Fault Tolerance, Distributed Systems, Consensus Mechanisms,
@@ -44,7 +54,9 @@ Network States, Game Theory, Quadratic Voting, Liquid Democracy
 
 ## The HMN in Two Sentences
 
-The HMN is a new paradigm of decentralized governance that integrates autonomous AI agents, ZK-encryption, scalable voting, game theory, and consensus mechanisms within DAOs. This system may underpin future parallel societies or network states. 
+The HMN is a new paradigm of decentralized governance that integrates autonomous AI agents, ZK-encryption, scalable
+voting, game theory, and consensus mechanisms within DAOs. This system may underpin future parallel societies or
+network states.
 
 ---
 
